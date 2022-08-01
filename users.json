@@ -18,5 +18,10 @@
     "email": "hello@hello.com",
     "password": "0e858ee8b4ab758c4f83b85470e66a5b4e36bb86f97a8100a7f3f00c8c1e7e31536920bd69a718408e4914f8d705908b6f1cc63c8def464211a6f7d276a826a3.c674247c42a961ac",
     "id": "b5bd43e0"
+  },
+  {
+    "email": "@asdf",
+    "password": "e18527df0698f99b352a8b3f19687a91a118abea6eaf676d873d00b98a4105e4fba1ac63a8fbc29ea9a115afb282a5bf3e0abab33ea54ff24a66a4ae22a306cf.ff791e5793021037",
+    "id": "a71f5a34"
   }
 ]
