@@ -25,6 +25,9 @@ module.exports = ({ content }) => {
                   <div class="navbar-item">
                     <a href="/admin/products"><i class="fa fa-star"></i> Products</a>
                   </div>
+                  <div class="navbar-item">
+                    <a href="/signout"><i class="fa-solid fa-arrow-right-from-bracket"></i> Sign Out</a>
+                  </div>
                 </div>
               </div>
             </div>
